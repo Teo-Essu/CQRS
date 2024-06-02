@@ -1,0 +1,15 @@
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Contracts\bin\Debug\net8.0\Entities.dll
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Contracts\bin\Debug\net8.0\Entities.pdb
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Contracts\obj\Debug\net8.0\Contracts.csproj.Up2Date
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Contracts\obj\Debug\net8.0\ref\Contracts.dll

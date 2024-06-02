@@ -1,0 +1,17 @@
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Repository\bin\Debug\net8.0\Contracts.dll
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Repository\bin\Debug\net8.0\Entities.dll
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Repository\bin\Debug\net8.0\Contracts.pdb
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Repository\bin\Debug\net8.0\Entities.pdb
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\Repository\obj\Debug\net8.0\ref\Repository.dll

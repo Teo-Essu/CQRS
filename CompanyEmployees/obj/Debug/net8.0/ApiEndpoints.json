@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "CompanyEmployees.Presentation.Controllers.CompaniesController",
+    "Method": "GetCompanies",
+    "RelativePath": "api/companies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyEmployees.Presentation.Controllers.CompaniesController",
+    "Method": "CreateCompany",
+    "RelativePath": "api/companies",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "companyForCreationDto",
+        "Type": "Shared.DataTransferObjects.CompanyForCreationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyEmployees.Presentation.Controllers.CompaniesController",
+    "Method": "GetCompany",
+    "RelativePath": "api/companies/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

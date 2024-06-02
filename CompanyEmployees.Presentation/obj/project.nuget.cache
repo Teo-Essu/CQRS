@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "79a45kAkBabGwucjz99JqjP/NA0k3mkGTLZcUgffhMh08lVbFKrVP9f6uRlMJ7AKzFgZwFI9dSh7jE35B1YAjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\theophilus.essuman\\Documents\\Projects\\CQRS\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theophilus.essuman\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\theophilus.essuman\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\theophilus.essuman\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\theophilus.essuman\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\theophilus.essuman\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\theophilus.essuman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\theophilus.essuman\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\theophilus.essuman\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\theophilus.essuman\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
