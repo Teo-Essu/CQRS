@@ -19,3 +19,4 @@ C:\Users\theophilus.essuman\Documents\Projects\CQRS\CompanyEmployees.Presentatio
 C:\Users\theophilus.essuman\Documents\Projects\CQRS\CompanyEmployees.Presentation\bin\Debug\net8.0\Shared.pdb
 C:\Users\theophilus.essuman\Documents\Projects\CQRS\CompanyEmployees.Presentation\obj\Debug\net8.0\CompanyEmployees.Presentation.csproj.AssemblyReference.cache
 C:\Users\theophilus.essuman\Documents\Projects\CQRS\CompanyEmployees.Presentation\obj\Debug\net8.0\CompanyE.FCF99C45.Up2Date
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\CompanyEmployees.Presentation\obj\Debug\net8.0\CompanyEmployees.Presentation.sourcelink.json

@@ -162,3 +162,4 @@ C:\Users\theophilus.essuman\Documents\Projects\CQRS\CompanyEmployees\bin\Debug\n
 C:\Users\theophilus.essuman\Documents\Projects\CQRS\CompanyEmployees\bin\Debug\net8.0\Shared.dll
 C:\Users\theophilus.essuman\Documents\Projects\CQRS\CompanyEmployees\bin\Debug\net8.0\Application.pdb
 C:\Users\theophilus.essuman\Documents\Projects\CQRS\CompanyEmployees\bin\Debug\net8.0\Shared.pdb
+C:\Users\theophilus.essuman\Documents\Projects\CQRS\CompanyEmployees\obj\Debug\net8.0\CompanyEmployees.sourcelink.json
